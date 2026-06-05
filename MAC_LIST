@@ -1,7 +1,8 @@
 http://elt.ipfr.tv:80/c
 00:1A:79:C3:B7:53
+00:1A:79:CD:09:F1
 END_SERVER
-http://line.glantv.com:80/
+http://line.glantv.com:80/c
 00:1A:79:32:6D:8A
 END_SERVER
 http://dragoniptv.de:80/c
