@@ -13,6 +13,6 @@ END_SERVER
 http://tv4u1.com:8080/c/
 00:1A:79:23:01:18
 END_SERVER
-http://204.52.191.254:80
-00:1A:79:3D:84:70
+http://maindnskullanma.com:8080
+A0:BB:3E:9A:45:E1
 END_SERVER
