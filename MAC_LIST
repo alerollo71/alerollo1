@@ -16,3 +16,6 @@ END_SERVER
 http://maindnskullanma.com:8080
 A0:BB:3E:9A:45:E1
 END_SERVER
+http://185.80.197.65:80
+00:1B:79:18:84:E6
+END_SERVER
